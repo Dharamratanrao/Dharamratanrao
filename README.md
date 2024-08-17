@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Dharamratanrao
+- 👀 I’m interested in data analysis, AI, and machine learning.
+- 🌱 I’m currently learning advanced Python techniques, JavaScript, and React.js.
+- 💞️ I’m looking to collaborate on AI/ML projects, web development, and data-driven initiatives.
+- 📫 How to reach me: [dharamratanrao@gmail.com](mailto:dharamratanrao@gmail.com)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I led a project called "Dog Vision" that uses AI to identify dog breeds through image uploads.
